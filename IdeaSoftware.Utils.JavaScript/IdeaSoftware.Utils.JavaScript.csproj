@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{02CCD867-3ED2-46F1-853C-8CC1340D7B21}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="String\String.js" />
+    <Content Include="String\String.min.js">
+      <DependentUpon>String.js</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="String\String.min.js.map">
+      <DependentUpon>String.min.js</DependentUpon>
+    </None>
+  </ItemGroup>
+</Project>

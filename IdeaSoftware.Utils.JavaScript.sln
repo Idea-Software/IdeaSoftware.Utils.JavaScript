@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaSoftware.Utils.JavaScript", "IdeaSoftware.Utils.JavaScript\IdeaSoftware.Utils.JavaScript.csproj", "{02CCD867-3ED2-46F1-853C-8CC1340D7B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CCD867-3ED2-46F1-853C-8CC1340D7B21}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{02CCD867-3ED2-46F1-853C-8CC1340D7B21}.Release|Any CPU.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
